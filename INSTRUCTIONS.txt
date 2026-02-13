@@ -1,0 +1,90 @@
+🎉 PS DEVWORKS WEBSITE - COMPLETE PACKAGE 🎉
+
+සියල්ල හදලා ready වෙලා තියෙනවා!
+
+📋 WHAT'S INCLUDED:
+==================
+✅ 8 HTML Pages (All separate files)
+✅ Complete CSS (Neon cyber design)
+✅ JavaScript (All animations & features)
+✅ Formspree Integration
+✅ Fully Responsive
+✅ Dark/Light Mode
+✅ Mobile Menu
+✅ WhatsApp Button
+
+📁 FILE STRUCTURE:
+==================
+index.html        - Home page
+about.html        - About us
+services.html     - Services page
+portfolio.html    - Portfolio with filters
+pricing.html      - Pricing plans
+blog.html         - Blog articles
+contact.html      - Contact form (Formspree)
+thank-you.html    - Thank you page
+css/styles.css    - All styles
+js/main.js        - All JavaScript
+
+🚀 HOW TO START:
+================
+1. Extract this ZIP file
+2. Open index.html in your browser
+3. That's it! Everything works!
+
+📧 CONTACT FORM:
+================
+✅ Already integrated with Formspree!
+✅ Endpoint: https://formspree.io/f/xaqdelvb
+✅ After submit → goes to thank-you.html
+✅ You'll get emails when someone submits
+
+💻 TO DEPLOY:
+=============
+Upload all files to your web hosting:
+- cPanel
+- Netlify
+- Vercel  
+- GitHub Pages
+- Any static hosting
+
+🎨 CUSTOMIZATION:
+=================
+1. Change colors in css/styles.css (look for :root)
+2. Edit text directly in HTML files
+3. Add your images to images/ folder
+4. Update WhatsApp number in all pages
+
+⚡ FEATURES:
+============
+✅ Animated preloader
+✅ Scroll progress bar
+✅ Glassmorphism cards
+✅ Neon glow effects
+✅ Particle animations
+✅ Grid background
+✅ Stats counter
+✅ Portfolio filters
+✅ Form validation
+✅ Mobile responsive
+✅ SEO optimized
+
+📱 BROWSER SUPPORT:
+===================
+✅ Chrome ✅ Firefox
+✅ Safari ✅ Edge
+✅ Mobile browsers
+
+💡 TIPS:
+========
+- Test contact form after deployment
+- Replace placeholder text with your info
+- Add your actual phone numbers
+- Update social media links
+- Add your logo image
+
+Need help? Just ask! 😊
+
+---
+Created with ⚡ by Claude
+PS Devworks © 2026
